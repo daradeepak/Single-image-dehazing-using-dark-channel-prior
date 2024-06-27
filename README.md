@@ -2,8 +2,8 @@
 # Image-Dehazing 
 
 # Installing the required dependencies:
-Go to SourceCode folder then run
-pip install -r requirements.txt
+Go to SourceCode folder and run
+pip install -r requirements.txt to install required dependencies
 
 # Run the code
 python demo.py <path_to_input_image>
