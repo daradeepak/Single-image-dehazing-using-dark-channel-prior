@@ -2,6 +2,7 @@
 # Image-Dehazing 
 
 # Installing the required dependencies:
+Go to SourceCode folder then run
 pip install -r requirements.txt
 
 # Run the code
